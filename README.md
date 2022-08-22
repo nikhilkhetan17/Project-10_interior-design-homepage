@@ -17,6 +17,7 @@
 - ### Learned how to give transparent background to button
 - ### Learned about Flexbox properties
 - ### Learned how to use font awsome icons
+- ### Tried to make little bit responsive
 
 <br>
 
